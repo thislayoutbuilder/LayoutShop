@@ -1,0 +1,21 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.form-control label {
+    font-size: 14px;
+}
+
+.form-control input {
+    padding: .3rem .5rem;
+    margin-top: .2rem;
+    border-color: #909eb6;
+    box-shadow: 2px 2px #909eb6;
+    font-size: 14px;
+    color: #293242;
+    font-weight: bold;
+}
+
+table {
+    font-size: 13px!important;
+}
